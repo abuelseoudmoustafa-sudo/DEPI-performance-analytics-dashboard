@@ -1,5 +1,3 @@
-# DEPI-performance-analytics-dashboard
-Data-driven dashboard for analyzing student attendance, provider performance, and engagement metrics for the Digital Egypt Pioneers Initiative (DEPI).
 # 🎓 DEPI Performance Analytics Dashboard
 
 A professional data analytics dashboard developed for the **Digital Egypt Pioneers Initiative (DEPI)** to monitor and evaluate:
@@ -34,42 +32,28 @@ A professional data analytics dashboard developed for the **Digital Egypt Pionee
 
 ---
 
-## 🖼️ Dashboard Preview
-
-> Add your screenshots here 👇
-
-* Overview Dashboard
-* Providers Performance
-* Students Performance
-
----
-
 ## 🛠️ Tools & Technologies
 
-* Power BI / Excel / Data Visualization Tools
+* Power BI / Excel
 * Data Cleaning & Transformation
-* KPI Design & Analytics
+* Data Visualization & KPI Design
 
 ---
 
 ## 📁 Project Structure
 
-```
 📦 depi-performance-analytics-dashboard
- ┣ 📂 data
- ┃ ┗ cleaned_dataset.xlsx
- ┣ 📂 dashboard
- ┃ ┗ depi_dashboard.pbix
- ┣ 📂 docs
- ┃ ┗ screenshots
- ┗ 📄 README.md
-```
+┣ 📂 data
+┃ ┗ dataset.xlsx
+┣ 📂 dashboard
+┃ ┗ depi_dashboard.pbix
+┗ 📄 README.md
 
 ---
 
 ## 🎯 Project Objective
 
-This project aims to provide a centralized view of performance metrics across the DEPI program to support:
+This project provides a centralized view of performance metrics across the DEPI program to support:
 
 * Data-driven decision making
 * Performance monitoring
@@ -80,7 +64,7 @@ This project aims to provide a centralized view of performance metrics across th
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
-2. Open using Power BI Desktop
+2. Open it using Power BI Desktop
 3. Explore dashboards and insights
 
 ---
@@ -90,6 +74,14 @@ This project aims to provide a centralized view of performance metrics across th
 * Real-time data integration
 * Web-based dashboard (React version)
 * Automated reporting system
+
+---
+
+## 📊 Insights Extracted
+
+* Attendance drops after mid-program period
+* Clear variation between providers performance
+* Some tracks show higher risk concentration
 
 ---
 
